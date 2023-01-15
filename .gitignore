@@ -1,0 +1,6 @@
+# Editror directories and files
+.DS_store
+.ipynb_checkpoints/
+.__pycache__/
+reference/
+data/
